@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "34151a294720aabd9c693f3c",
+  "owner": "whnvcvtrg",
+  "repo": "page-fa578482079069d5ead4298f",
+  "title": "潜艇",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "fa578482079069d5ead4298f",
+      "a": "潜艇",
+      "b": "机场官网线路发布页",
+      "entity": "潜艇",
+      "brand": "潜艇",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "46c7900511dd2245c52912c5ce269e2ad03ccb1eb0f38605cd01540c94e1330e",
+      "content": {
+        "primary_entity": "潜艇",
+        "keyword1": "潜艇",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "潜艇节点支持订阅链接导入，导入方式依据不同客户端有所不同。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "按需选择套餐，下载合适客户端导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用潜艇",
+          "AI_DESCRIPTION": "，潜艇提供基础版、旗舰版与团队版三档方案，流量覆盖每月100GB至1000GB，设备数从3台到20台灵活匹配。旗舰版搭载IPLC专线并对游戏加速优化，团队版支持企业定制路由与专属客户经理。客户端覆盖常见平台，订阅导入后即可使用。",
+          "AI_FAQ_ANSWER_1": "基础版每月100GB流量，旗舰版300GB，团队版1000GB。轻度浏览或社交选基础版，经常观看高清视频或游戏加速选旗舰版，多设备家庭或小型团队选团队版更合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持3台设备在线，旗舰版5台，团队版20台。如果日常需要在手机、平板、电脑之间切换，建议至少选择旗舰版；家庭成员较多时可直接考虑团队版。",
+          "AI_FAQ_ANSWER_3": "可以，订阅链接支持导入到多种主流客户端。具体支持的客户端列表和对应的操作方式，请查看客户端配置文档，按说明导入即可。",
+          "AI_FAQ_ANSWER_4": "旗舰版包含IPLC专线游戏加速优化，能改善延迟和丢包表现。如果你主要玩联机游戏，选择旗舰版比基础版更合适，团队版则提供更高带宽的专属节点。",
+          "AI_FAQ_ANSWER_5": "月付方案灵活，适合短期试用；年付方案均价更低，适合长期稳定使用。基础版年付150元，旗舰版350元，团队版850元。如果确定长期使用，直接选年付更划算。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数有什么区别？",
+          "AI_FAQ_QUESTION_3": "订阅链接可以导入哪些客户端？",
+          "AI_FAQ_QUESTION_4": "旗舰版的IPLC专线对游戏有帮助吗？",
+          "AI_FAQ_QUESTION_5": "年付和月付哪个更划算？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备和线路三个角度快速了解潜艇的差异。",
+          "AI_FEATURES_TITLE": "套餐与线路特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻度使用，旗舰版300GB满足高清视频，团队版1000GB应对多人共享。",
+          "AI_FEATURE_TITLE_1": "按流量选档位",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按手机、电脑、平板数量选择。",
+          "AI_FEATURE_TITLE_2": "按设备数选择",
+          "AI_FEATURE_TEXT_3": "旗舰版提供IPLC专线并对游戏加速优化，团队版配备VIP专属高带宽节点与定制路由选项。",
+          "AI_FEATURE_TITLE_3": "线路与加速",
+          "AI_GUIDE_INTRO": "三步完成从套餐选择到开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "潜艇提供基础版、旗舰版和团队版三档方案，每月流量从100GB到1000GB，支持多设备同时在线，旗舰版搭载IPLC专线并针对游戏加速优化，适合个人到团队的不同使用场景。",
+          "AI_HERO_SUBTITLE": "潜艇加速器，多档套餐灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖100GB至1000GB月流量",
+          "AI_HIGHLIGHT_2": "3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "旗舰版IPLC专线游戏加速优化",
+          "AI_PLANS_INTRO": "基础版月付15元年付150元，旗舰版月付35元年付350元，团队版月付85元年付850元。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据自己每月需要的流量和同时在线设备数量，在基础版、旗舰版和团队版之间选择。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "查看所选套餐在设备数、流量和线路方面的适配要求，确认是否满足使用场景。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "参照客户端配置文档，将订阅链接导入对应客户端，完成后即可使用潜艇节点。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "潜艇加速器线路与套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "uuhozdq.cn",
+    "host": "uuhozdq.cn"
+  },
+  "file_hashes": {
+    "index.html": "4041fcb4295144e433a303ebcaac46d25e455839d39f79539a18aa1c5bdbedc9",
+    "sitemap.xml": "c6de6282c184ae7f83ca99998f8f991c087128caf1fc4aeb046ab8838b1f174b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "dc650d78cf04566449ad048c96ce3c6eec4fc8b6f372802ecba5dac61b12000a",
+    "robots.txt": "04d83a286e70de5ba0a6a3ac027ae4a0a2205cb825b62ff4f8554efbe6f11c02",
+    "9d938424c9563b28540ebdb1bb6fbdc5.txt": "f41559d5ec8e5c01ecfbc8992a021fd0f89d722a78cd9af2cd39ea0d8ecad3d4"
+  },
+  "revision": "f2485e0ca6f00d7333838b607c6d520906ca0cea2d0f54c783bace53ec144936"
+}
